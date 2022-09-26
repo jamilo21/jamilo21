@@ -1,8 +1,7 @@
 - 👋 Ola, Sou Professor Jamilo Costa
-- 👨‍🏫 Sou Professo de Pensamento Computacional
+- 👨‍🏫 Sou Professor de Português e formador de Pensamento Computacional 2023
 - 🧒 Sou pai do Dante José
--  I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 meu email: aluizio.pereira@escola.pr.gov.br
 
 <!---
 jamilo21/jamilo21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
